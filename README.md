@@ -7,7 +7,7 @@ As part of COS 426 Computer Graphics, an upper level Princeton Computer Science 
 Assignment 3 involved implementing a basic raytracing system, including reflections, diffuse color, and basic lighting in OpenGL. I implemented a soap bubble for my competition entry, using a random-offset, sinusoidal color and refraction model based on surface tangent angles to produce a natural, oily look without physical simulation.
 
 # Assignment 5 - Cloth Simulation *Silver Prize*
-![Rip and Tear](ContestSubmissions/A5/rip1.webm)
+![Rip and Tear](ContestSubmissions/A5/rip2.gif)
 
 Assignment 5 was a basic cloth simulation, including collision physics and gravity. I added interactivity for my competition entry, allowing the user to cut the cloth using a mouse. As the original framework was not designed with tearing in mind (or any sort of dynamic addition / subtraction of fabric), this ended up being a major addition, involving figuring out ways to "disappear" certain fabric nodes without breaking the physics system or introducing unnatural behavior.
 
