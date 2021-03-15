@@ -15,4 +15,4 @@ Assignment 5 was a basic cloth simulation, including collision physics and gravi
 
 ![Catcher Gameplay](ContestSubmissions/FinalProject/Catcher.gif)
 
-With a group of 2 others, my final project was a physics-based, vaccine-themed 3D "catcher" game. I implemented the physics, controls, score-system, gamification, bits of lighting, and some UI fixes. You can play [here](https://kirkhamj16.github.io/426-catcher/); frame-rate may be low on slower machines, optimization was not a priority!
+With a group of 2 others, my final project was a physics-based, vaccine-themed 3D "catcher" game. I implemented the physics, controls, score-system, gamification, bits of lighting, and some UI fixes. You can play [here](https://kirkhamj16.github.io/426-catcher/). Frame-rate may be low on slower machines, optimization was not a priority! You can view a full playthrough [here](https://youtu.be/AWU5k7yN944).
