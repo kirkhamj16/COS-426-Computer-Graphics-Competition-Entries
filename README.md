@@ -2,6 +2,8 @@
 As part of COS 426 Computer Graphics, an upper level Princeton Computer Science course taught in Spring 2020, students were invited to think up, design, and implement additional features on top of course assignments for submission to a staff-judged, class-wide competition. Attached below are my prize-winning entries, alongside brief descriptions of the technical work required. As these were technically part of coursework, I can't attach the source code due to Honor Code regulations -- however, they all were significant additions and modifications to the minimum code required to complete the assignment. For reference, other entries can be seen [here](https://www.cs.princeton.edu/courses/archive/spring20/cos426/gallery).
 
 # Assignment 3 - Raytracing   *Bronze Prize*
+![Stop the Spread!](ContestSubmissions/A3/art-jak4-wash.png)
+
 ![Soap Bubble](ContestSubmissions/A3/art-jak4-bubble.png)
 
 Assignment 3 involved implementing a basic raytracing system, including reflections, diffuse color, and basic lighting in OpenGL. I implemented a soap bubble for my competition entry, using a random-offset, sinusoidal color and refraction model based on surface tangent angles to produce a natural, oily look without physical simulation.
